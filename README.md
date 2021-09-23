@@ -2,4 +2,4 @@
 Hello there,
 This is information page for the discord community of IET-DAVV!
 
-![hello](https://imgur.com/cwmt68n)
+[Imgur](https://i.imgur.com/cwmt68n.gifv)
