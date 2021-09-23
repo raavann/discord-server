@@ -2,10 +2,10 @@
 Welcome to the info page of IETDAVV coding community!
 Join us now by clicking [here!](https://discord.gg/Bndwa6zYXn)<a href="https://imgur.com/cwmt68n"><img src="https://i.imgur.com/cwmt68n.gif" title="source: imgur.com" /></a>
 # {
-> 	> **Connect**  with coders of all levels;
-> 	> **Discuss**  and decipher problems;
-> 	> **Engage**  in open source projects;
-> 	> **Brainstorm** over optimized approaches;
+> **Connect**  with coders of all levels;
+> **Discuss**  and decipher problems;
+> **Engage**  in open source projects;
+> **Brainstorm** over optimized approaches;
 # }
 
 
