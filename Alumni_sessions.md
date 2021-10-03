@@ -12,7 +12,7 @@ You can choose any slot {saturdays & sundays, b/w 6pm-9pm} onwards from there!
 ## Where?
 The Sessions/ Meet will take place on the Discord Server's ["stage".](https://discord.com/stages)
 ## What?
-You can literally choose any Topic/ Issue/ Subject you'd want to share your experience in!
+You can literally choose any Topic/ Issue/ Subject you'd want to share your experience in! (Technical or non-technical).
 > As long as that helps the community as a whole!
 
 ### Format of the session!
