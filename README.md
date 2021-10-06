@@ -1,11 +1,14 @@
 # IET DAVV Coding Community!
-Welcome to the info page of IETDAVV coding community!
+
 Join us now by clicking [here!](https://discord.gg/Bndwa6zYXn)<a href="https://imgur.com/cwmt68n"><img src="https://i.imgur.com/cwmt68n.gif" title="source: imgur.com" /></a>
 # {
->>> **Connect**  with coders of all levels;
- **Discuss**  and decipher problems;
- **Engage**  in open source projects;
- **Brainstorm** over optimized approaches;
+> **Connect**  with coders of all levels;
+
+> **Discuss**  and decipher problems;
+ 
+> **Engage**  in open source projects;
+
+> **Brainstorm** over optimized approaches;
 # }
 
 
@@ -30,9 +33,10 @@ Assign yourself cool Roles and showcase your skills which show itself on your pr
 - <a href="https://imgur.com/5m3SxbS"><img src="https://i.imgur.com/5m3SxbS.gif" title="source: imgur.com" /></a>
 <a href="https://imgur.com/UVrxDT2"><img src="https://i.imgur.com/UVrxDT2.gif" title="source: imgur.com" /></a>
 
-## Upcoming
+## Alumni Sessions
 
-> Sessions by college **Alumni** twice a month who made it **Big!**
+> Sessions by college **Alumni** who share in their experience of their Journey!
+> (Click here!)[https://github.com/raavann/discord-server/blob/main/Alumni_sessions.md] to know more!
 
 ### Excited Yet?
 Join us now by clicking [here!](https://discord.gg/Bndwa6zYXn)
