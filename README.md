@@ -1,6 +1,6 @@
 # IET DAVV Coding Community!
 
-Join us now by clicking [here!](https://discord.gg/Bndwa6zYXn)
+Join us now by clicking [here!](https://discord.gg/8WVnJush)
 <a href="https://imgur.com/cwmt68n"><img src="https://i.imgur.com/cwmt68n.gif" title="source: imgur.com" /></a>
 
 # {
